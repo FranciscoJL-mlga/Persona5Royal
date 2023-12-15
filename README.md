@@ -20,47 +20,51 @@
 </p>
 
 <h2 id="estructura">Estructura</h2>
-<p>La web está dividida en  X secciones:</p>
+<p>La web está dividida en  5 secciones:</p>
 <ul>
   <li>Hero Section</li>  
-  <li>Introducción</li>
-  <li>...</li>
-  <li>Footer</li>
+  <li>personaje</li>
+  <li>palacios</li>
+  <li>trailers</li>
+  <li>footer</li>
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./bm-readme/hero.png" alt="imagen de hero section" style="width:50%">
-<p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
-Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
-(una breve explicación)</p>
+<img src="./readme-bm/hero.png" alt="imagen de hero section" style="width:50%">
+<p>He utilizado varias imagenes de fondo unidas con un slider que se adapta fácilmente a diferentes dispositivos<br>
+Un par de botones una a cada lado para poder recorrer el slider<br></p>
 
-<h3>Introducción</h3>
-<img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
-<p>He dispuesto en un grid de 2 columnas....</p>
+<h3>personajes</h3>
+<img src="./readme-bm/personajes.png" alt="imagen de los personajes section" style="width:50%">
+<p>He dispuesto varias imagenes colocadas consecutivamente y que muestran informacion de los personajes mediante cuadros de texto, adornados mediante bordes y sombras para parecerse a el estilo de las ventanas del propio juego,ademas deun efecto parallax de fondo</p>
 
-.......
+<h3>trailer</h3>
+<img src="./readme-bm/trailer.png" alt="imagen de hero section" style="width:50%">
+<p>He ordenado los trailers en un contenedor que se va adaptando segun el tamaño de la pantalla</p>
 
 
+<h3>palacios</h3>
+<img src="./readme-bm/palacios.png" alt="imagen de hero section" style="width:50%">
+<p>He dispuesto una serie de imagenes en abanico que muestran cada una de las mazmorras del juego, por pinterest encontre algunas imagenes que seguian todas el mismo tipo de arte y me ayudo a ordenarlos para que hiciera un efecto de biblioteca</p>
 
+<h3>footer</h3>
+<img src="./readme-bm/footer.png" alt="imagen de hero section" style="width:50%">
+<p>He dispuesto en un grid de 3 columnas con enlaces a youtube, twitter y linklelin</p>
 <p>y aqui pongo <b>lo que quiera</b></p>
-
-<h3>Footer</h3>
-<p>breve explicación </p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
 <p>.....</p>
-<h3>Tipografías</h3>
-<p>.....</p>
 <h3>Imágenes</h3>
-<p>.....</p>
+<p>Creditos a cada creador de cada imagen por separado, hace tiempo que busque estas imagenes y ya no se de donde vienen 
+la mayoria, algunos de google(a saber que pagina)y otras de pinterest</p>
 <h3>Videos</h3>
-<p>.....</p>
+<p>Los unicos videos son los trailers de youtube</p>
 ...................
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación: tomada de w3Schools "How to" (poner vínculo)</li>
-  <li>Accordion: ..............</li>
-  <li>..........</li>
+  <li>Barra de navegación: tomada de w3Schools  https://www.w3schools.com/howto/howto_js_topnav_responsive.asp</li>
+  <li>imagenes en abanico de los palacios de "Youtube"con algunos cambios en la responsividad: https://www.youtube.com/shorts/8Rc18lfl68c</li>
+  <li></li>
 </ul>
