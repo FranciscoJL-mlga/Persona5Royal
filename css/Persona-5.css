@@ -619,7 +619,9 @@ small{
 
 }
 @media only screen and (max-width: 600px) {
-
+.container{
+  padding-top: 16%;
+}
   #Metaverso {
     margin: 0px;
     width: 97%;
@@ -671,7 +673,7 @@ small{
 }
 
 @media screen and (width < 615px) {
-  .topnav.responsive {position: relative;}
+  .topnav.responsive {position: fixed}
   .topnav.responsive a.icon {
       position: absolute;
       right: 0;
