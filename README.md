@@ -54,7 +54,7 @@ Un par de botones una a cada lado para poder recorrer el slider<br></p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
-<p>.....</p>
+<img src="./readme-bm/paleta.jpeg" alt="imagen de los personajes section" style="width:50%">
 <h3>Imágenes</h3>
 <p>Creditos a cada creador de cada imagen por separado, hace tiempo que busque estas imagenes y ya no se de donde vienen 
 la mayoria, algunos de google(a saber que pagina)y otras de pinterest</p>
