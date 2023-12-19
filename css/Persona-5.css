@@ -6,9 +6,16 @@
 /*  versión 1.0
 /*  Clase: 1ºDaw                                                                */
 /*********************************************************************/
+@font-face {
+  font-family: 'Persona5';
+  src: url(../fonts/Persona5.ttf);
+  font-weight: bold;
+  font-style: bold;
+}
 
 
 h2{
+
   text-align: center;
   border-bottom: 21%;
 }
@@ -281,9 +288,7 @@ padding-top: 10px;
      background-color: black;
     position: relative;
   border: 5px solid white;
-  	-webkit-transform: skew(0deg);
-	  -moz-transform: skew(20deg);
-	  -o-transform: skew(20deg);
+
   box-shadow: -5px 5px 5px 5px black;
   
 
@@ -505,7 +510,12 @@ footer {background-color: #f7f4f4;}
 .grid3 {display:grid;
         background-color: #5d0000;
         grid-template-columns: 25% 25% 50%;}
-.col3 {padding:6%;}
+.col3 {
+  font-size: 10px;
+  font-family :'Persona5';
+  font-weight: bold;
+        padding:8%;
+        font-size: 30px;}
 
 .col3 img {width:45%;
            display:block; 
@@ -521,15 +531,19 @@ footer {background-color: #f7f4f4;}
   }
 
   .fa {
+    border-radius: 50%;
     box-sizing:content-box;
-    padding: 10px;
+    padding: 15px;
     font-size: 20px;
     width: 22px; 
     text-align: center;
     text-decoration: none;
     margin: 5% 2%;
   }
-  
+  .iconos{
+    
+    font-size: 20px;
+  }
   .fa:hover {
       opacity: 0.7;
   }
