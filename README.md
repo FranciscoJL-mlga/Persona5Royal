@@ -58,12 +58,38 @@ Un par de botones una a cada lado para poder recorrer el slider<br></p>
 <h3>Imágenes</h3>
 <p>Creditos a cada creador de cada imagen por separado, hace tiempo que busque estas imagenes y ya no se de donde vienen 
 la mayoria, algunos de google(a saber que pagina)y otras de pinterest</p>
+
+<div>
+    <img src="./images/cuarto.jpg" alt="Cuarto" style="width: 50%;">
+    <img src="./images/decimo.jpg" alt="Decimo" style="width: 50%;">
+    <img src="./images/header.jpg" alt="Header" style="width: 50%;">
+    <img src="./images/noveno.jpg" alt="Noveno" style="width: 50%;">
+    <img src="./images/octavo.jpg" alt="Octavo" style="width: 50%;">
+    <img src="./images/persona-5-wallpapers-desktop-one.jpg" alt="Persona 5" style="width: 50%;">
+    <img src="./images/primero.jpg" alt="Primero" style="width: 50%;">
+    <img src="./images/quinto.jpg" alt="Quinto" style="width: 50%;">
+    <img src="./images/segundo.jpg" alt="Segundo" style="width: 50%;">
+    <img src="./images/septimo.jpg" alt="Septimo" style="width: 50%;">
+    <img src="./images/sexto.jpg" alt="Sexto" style="width: 50%;">
+    <img src="./images/slider1.jpeg" alt="Slider 1" style="width: 50%;">
+    <img src="./images/slider1.jpg" alt="Slider 1" style="width: 50%;">
+    <img src="./images/slider2.jpg" alt="Slider 2" style="width: 50%;">
+    <img src="./images/slider3.jpg" alt="Slider 3" style="width: 50%;">
+    <img src="./images/slider4.jpg" alt="Slider 4" style="width: 50%;">
+    <img src="./images/slider5.png" alt="Slider 5" style="width: 50%;">
+    <img src="./images/slider6.jpg" alt="Slider 6" style="width: 50%;">
+    <img src="./images/tercero.jpg" alt="Tercero" style="width: 50%;">
+</div>
 <h3>Videos</h3>
+
 <p>Los unicos videos son los trailers de youtube</p>
 ...................
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
+  <h2> Font </h2>
+  enlace:https://www.actionfonts.com/persona-5-font/
+  en mi opinion no me agrada demasiado , la coloco unicamente por el criterio de correccion
   <li>Barra de navegación: tomada de w3Schools  https://www.w3schools.com/howto/howto_js_topnav_responsive.asp</li>
   <li>imagenes en abanico de los palacios de "Youtube"con algunos cambios en la responsividad: https://www.youtube.com/shorts/8Rc18lfl68c</li>
   <li></li>
